@@ -19,6 +19,7 @@ main {
 }
 
 p {
+width: 300px;
 
 }
 
@@ -39,6 +40,7 @@ a {
 .col {
 
     flex: auto;
+    width: 200px;
 
 
 }
@@ -89,17 +91,49 @@ a {
 
 .genre-first {
 
+width: 300px;
+height: 40px;
+background-color: #E1F5EA;
+border-radius: 8px;
+margin-bottom: 20px;
+padding-left: 20px;
+padding-top: 15px;
+
 }
 
 .genre-second {
+
+width: 250px;
+height: 40px;
+background-color: #CBEDFF;
+border-radius: 8px;
+margin-bottom: 20px;
+padding-left: 20px;
+padding-top: 15px;
 
 }
 
 .genre-third {
 
+width: 150px;
+height: 40px;
+background-color: #FBECDD;
+border-radius: 8px;
+margin-bottom: 20px;
+padding-left: 20px;
+padding-top: 15px;
+
 }
 
 .genre-fourth {
+
+width: 100px;
+height: 40px;
+background-color: #EBDCF9;
+border-radius: 8px;
+margin-bottom: 20px;
+padding-left: 20px;
+padding-top: 15px;
 
 }
 
