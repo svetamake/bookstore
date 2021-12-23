@@ -58,7 +58,6 @@ a {
     padding-bottom: 8px;
     padding-left: 5px;
 
-
 }
 
 .button {
@@ -139,6 +138,8 @@ padding-top: 15px;
 
 .tag {
 
+color: #554AF0;
+
 }
 
 /* Страничка популярного */
@@ -153,13 +154,30 @@ margin-right: 20px;
 
 .box-green {
 
+width: 300px;
+height: 60px;
+background-color: #E1F5EA;
+border-radius: 5px;
+margin: 20px 0px 35px;
+padding: 20px 15px 15px;
+
 }
 
 .box-purple {
 
+width: 300px;
+height: 60px;
+background-color: #EBDCF9;
+border-radius: 5px;
+margin: 30px 0px 35px;
+padding: 20px 15px 15px;
+
 }
 
 .text-large {
+
+font-size: 30px;
+margin-bottom: 10px;
 
 }
 
